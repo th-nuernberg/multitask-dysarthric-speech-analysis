@@ -1,0 +1,23 @@
+# Main Dependencies
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+transformers==4.50.0
+accelerate==1.5.2
+datasets
+peft==0.15.0
+librosa
+soundfile
+scipy==1.15.2
+pillow
+backoff==2.2.1
+tqdm
+scikit-learn
+
+# Evaluation Metrics
+evaluate
+jiwer
+editdistance==0.8.1
+jellyfish==1.1.3
+bert-score==0.3.13
+
