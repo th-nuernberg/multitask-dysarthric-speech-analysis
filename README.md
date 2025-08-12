@@ -49,8 +49,8 @@ This project was developed and tested on Python 3.10. Newer versions (3.11+) are
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/repo-name.git
-    cd repo-name
+    git clone git@github.com:th-nuernberg/multitask-dysarthric-speech-analysis.git
+    cd multitask-dysarthric-speech-analysis
     ```
 
 2.  **Create a virtual environment:**
